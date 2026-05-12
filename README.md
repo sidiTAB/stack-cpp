@@ -33,4 +33,4 @@ stack.exe
 ```
 
 ## Course
-COM206 — Data Structures
+COM202 — Data Structures
